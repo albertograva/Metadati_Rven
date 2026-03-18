@@ -1,0 +1,10 @@
+[general]
+name=Metadati ReVEN
+description=Generazione massiva metadati RNDT per PAT e PI, compatibili con il validatore regionale IDT 2.0 
+version=0.1
+qgisMinimumVersion=3.22
+author=alberto grava
+email=info@albertograva.it
+icon=icon.png
+homepage=https://www.albertograva.it
+repository=https://github.com/albertograva/Metadati_Rven
